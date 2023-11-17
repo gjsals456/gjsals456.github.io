@@ -1,7 +1,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: Heonmin's website!
 description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
 baseurl: "/" # the subpath of the site
@@ -20,8 +20,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
+      value: yong8535@gmail.com
+      link: mailto:yong8535@gmail.com
     - name: WeChat
       value: YourWeChatUsername
       link: "#"
@@ -34,7 +34,7 @@ footer:
     - name: LinkedIn
       link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: http://github.com/gjsals456
     - name: Dribbble
       link: https://dribbble.com/YourDribbbleUsername
     - name: RSS
