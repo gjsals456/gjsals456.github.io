@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  안녕하세요! 이 사이트는 대학 수업 오픈소스 소프트웨어 시간의 실습을 위해 만들어진 사이트입니다. 잘부탁드립니다!
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  해당 사이트의 원본 소스는 <a href="https://github.com/eliottvincent/bay">GitHub</a>에 있습니다.
 </p>
